@@ -11,8 +11,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/scss-bootrap-created-stats-preview-card-component-yVTld-g--
+- Live Site URL: https://jvstleon.github.io/Stats-Preview-Card-Component/
 
 
 ## Built with
